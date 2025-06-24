@@ -1,7 +1,7 @@
 Iris Dataset PCA Analysis
 This repository contains a Jupyter Notebook (specifically, a Google Colab notebook) that demonstrates a Principal Component Analysis (PCA) on the famous Iris dataset.
 
-Notebook: PCAML24MBD023.ipynb
+
 This notebook walks through the following steps:
 
 Loading the Iris Dataset: Imports the Iris dataset from sklearn.datasets.
