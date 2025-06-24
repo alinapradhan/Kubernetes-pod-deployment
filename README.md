@@ -7,7 +7,6 @@ This notebook walks through the following steps:
 Loading the Iris Dataset: Imports the Iris dataset from sklearn.datasets.
 
 Data Exploration:
-
 Loads the data into a Pandas DataFrame.
 
 Displays the head and tail of the DataFrame.
