@@ -3,8 +3,6 @@ This repository contains a Jupyter Notebook (specifically, a Google Colab notebo
 
 
 
-
-
 This notebook walks through the following steps:
 
 Loading the Iris Dataset: Imports the Iris dataset from sklearn.datasets.
