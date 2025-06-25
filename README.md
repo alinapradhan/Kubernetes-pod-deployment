@@ -15,7 +15,6 @@ Displays the head and tail of the DataFrame.
 Adds the 'target' column (species information) to the DataFrame.
 
 Data Preprocessing:
-
 Separates features (X) and target (y).
 
 Applies StandardScaler to normalize the feature data, which is crucial for PCA.
